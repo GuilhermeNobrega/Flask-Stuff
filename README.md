@@ -1,8 +1,3 @@
-# Instalação do Flask
-
-## Crie um ambiente de desenvolvimento completo para seus projetos Flask!
-
-Este guia detalhado o ajudará a instalar e configurar o Flask em seu ambiente local, permitindo que você comece a criar aplicações web poderosas e dinâmicas.
 
 ### Pré-requisitos:
 
