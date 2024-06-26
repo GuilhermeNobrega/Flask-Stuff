@@ -20,7 +20,6 @@ python --version
 pip --version
 
 ```
-
 ## Instalação do Flask:
 
 Com os pré-requisitos em mãos, instale o Flask usando o pip:
@@ -31,55 +30,8 @@ flask --version
 pip show flask
 
 ```
+<img src="https://phylos.net/wp-content/uploads/2022/02/pastasFlask.jpg">
 
-<h2>Estrutura do Projeto Flask</h2>
-
-    <table>
-        <thead>
-            <tr>
-                <th>Diretório/Arquivo</th>
-                <th>Descrição</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>meu_projeto/</td>
-                <td>Diretório raiz do projeto</td>
-            </tr>
-            <tr>
-                <td>├── app/</td>
-                <td>Diretório principal da aplicação</td>
-            </tr>
-            <tr>
-                <td>│   ├── static/</td>
-                <td>Arquivos estáticos (CSS, JavaScript, imagens)</td>
-            </tr>
-            <tr>
-                <td>│   ├── templates/</td>
-                <td>Arquivos de template HTML</td>
-            </tr>
-            <tr>
-                <td>│   ├── __init__.py</td>
-                <td>Arquivo de inicialização da aplicação</td>
-            </tr>
-            <tr>
-                <td>│   └── routes.py</td>
-                <td>Arquivo de rotas e lógica da aplicação</td>
-            </tr>
-            <tr>
-                <td>├── venv/</td>
-                <td>Ambiente virtual Python (opcional)</td>
-            </tr>
-            <tr>
-                <td>├── README.md</td>
-                <td>Arquivo de documentação do projeto</td>
-            </tr>
-            <tr>
-                <td>└── main.py</td>
-                <td>Ponto de entrada da aplicação</td>
-            </tr>
-        </tbody>
-    </table>
 
   ## Recursos Adicionais para Flask
 
