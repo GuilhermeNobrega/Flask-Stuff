@@ -32,4 +32,4 @@ pip show flask
 
 - [Documentação Flask (Português)](https://readthedocs.org/projects/flask/)
 - [Download do Python](https://www.python.org/downloads/)
-- [Tutorial problemas no path do python (https://m.youtube.com/watch?v=Z1RJmh_OqeA)
+- [Tutorial problemas no path do python] (https://m.youtube.com/watch?v=Z1RJmh_OqeA)
