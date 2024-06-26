@@ -26,3 +26,8 @@ meu_projeto/
 │
 ├── README.md
 └── main.py
+
+
+https://flask-ptbr.readthedocs.io/en/latest/quickstart.html
+https://www.python.org/downloads/
+https://www.youtube.com/watch?v=dj5oOPaeIqI&t=286s
